@@ -1,3 +1,3 @@
 function test() {
-  console.log("this is master feature")
+  console.log("this is develop feature")
 }
